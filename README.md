@@ -7,7 +7,7 @@ This repository is for those who are interested in **econometrics** and **regres
 - combine *regression results* and *p-values* into a table
 - transfer `pd.DataFrame` to `LaTeX` code of tables
 
-## data
+## data-example
 
 The directories `factor_result` and `regression_result` constain data about my **Fama-french five factors model** project.
 - `factor_result`: the results of factors
