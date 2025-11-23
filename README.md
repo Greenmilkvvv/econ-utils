@@ -3,7 +3,9 @@
 
 ## For whom?
 
-This repository is for those who are interested in **econometrics** and **regression analysis**. It contains some practical tools to 
+This repository is for those who are interested in **econometrics** and **regression analysis**. 
+
+`my_utils` is my temporary toolbox. It contains some practical tools to 
 - combine *regression results* and *p-values* into a table
 - transfer `pd.DataFrame` to `LaTeX` code of tables
 
