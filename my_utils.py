@@ -128,6 +128,7 @@ def get_LaTeX_table(
 
     # 表头 (columns) 处理
     cols = df.columns.tolist() if (columns is None) else columns
+    cols = [ str(col) for col in cols]
 
     if textbf['columns']:
         cols = [ r'\textbf{' + str(col) + r'}' for col in cols]
